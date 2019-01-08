@@ -6,7 +6,7 @@ latihan2
 ![alt text](https://github.com/fanniyuliani08/modul2-php/blob/master/latihan2.PNG)
 
 latihan3
-![alt text](https://github.com/fanniyuliani08/modul2-php/blob/master/latihan3.PNG)
+![alt text](https://github.com/fanniyuliani08/modul2-php/blob/master/latihan 3.PNG)
 
 latihan4
 ![alt text](https://github.com/fanniyuliani08/modul2-php/blob/master/latihan4.PNG)
